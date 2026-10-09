@@ -1,4 +1,4 @@
-**Hi, I’m Avinash Ravichandran 👋**
+## **Hi, I’m Avinash Ravichandran 👋**
 
 I’m pursuing an M.Sc. in Computational Modelling and Simulation at TU Dresden, Germany, with a background in Electronics and Communication Engineering.
 
