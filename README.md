@@ -1,9 +1,11 @@
 Hi, I’m Avinash Ravichandran 👋
 
-I’m currently pursuing an M.Sc. in Computational Modelling and Simulation at TU Dresden, Germany. I have a background in Electronics and Communication Engineering and an interest in Artificial Intelligence, Machine Learning, and Data Analytics.
+I’m pursuing an M.Sc. in Computational Modelling and Simulation at TU Dresden, Germany, with a background in Electronics and Communication Engineering.
 
-I enjoy learning new technologies, solving problems, and building projects using Python and data-driven methods.
+🔭 Currently working on: Machine learning and AI projects, including Transformer-based circle recognition.
 
-Interests: AI, Machine Learning, Data Science, and Data Analytics.
+🛠️ Tools I use: Python, PyTorch, SQL, Power BI, MATLAB, and Git.
 
-Tech stack: Python, SQL, PyTorch, Power BI, and MATLAB.
+🌱 Interested in: Artificial Intelligence, Machine Learning, Data Science, and Data Analytics.
+
+📫 Reach me: LinkedIn
